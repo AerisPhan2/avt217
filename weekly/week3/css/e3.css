@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #78eb9e;
+	margin-left:10%;
+	margin-right:5%;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+header {
+	background-color:#55e349;
+	padding-bottom:20px;
+	
+}
+
+
+nav { color:aliceblue
+}
+
+ul {	
+
+}
+
+li{
+	
+	list-style-type:lower-roman;
+	display:inline;
+	margin-right:10px;
+}
+
+.posttime {
+	color:darkblue;
+	font-size:0.7em;
+}
+
+h2, p, h3 {
+	color:darkgreen
+}
