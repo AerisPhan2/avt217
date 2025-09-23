@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	line-height:1.6em;
+	background-color:mediumspringgreen;
+}
+
+#wrapper{
+	padding-left: 5%;
+	float:left;
+	
+
+}
+
+h1 {
+ font-family: "cofo-raffine", sans-serif;
+font-weight: 900;
+font-style: normal;
+}
+
+
+h2 {
+	
+font-family: "cofo-raffine", sans-serif;
+font-weight: 500;
+font-style: normal;
+	
+}
+h3{font-family: "cofo-raffine", sans-serif;
+font-weight: 900;
+font-style: normal;
+color:darkgreen}
+
+h4 {font-family: "cofo-raffine", sans-serif;
+font-weight: 400;
+font-style: normal;}
+
+a:link { color:darkgreen}
+a:hover {color:palevioletred;
+	text-decoration:underline;}
+a:visited {color:darkred}
+a:active {color:orangered}
+
+dt{font-family: "royale-30", sans-serif;
+font-weight: 400;
+font-style: normal;}
+
+dd{font-family: "royale-15", sans-serif;
+font-weight: 400;
+font-style: normal;}
+
+.weekly{
+	width:45%;
+	float:left;
+	margin:0 5%;
+}
+
+#project{
+	width:45%;
+	float:left;
+}
+
+.demo { font-weight:100;font-style:italic;
+	color:green;}
