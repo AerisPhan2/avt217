@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:lightseagreen;
+		padding-top:2%;
+	padding-left:2%;
+padding-right: 2%;
+	padding-bottom:0;
+
+	
+}
+
+.container {
+padding-left: 5%;
+	padding-right: 5%;
+	padding-top:2%;
+	background-color:burlywood;
+	margin-bottom: 5%;
+	padding-bottom: 0;
+height: 2600px;
+}
+
+h1 {
+	font-family: "ekamai", sans-serif;
+font-weight: 400;
+font-style: normal;
+	color:darkslategray
+	
+
+}
+
+h2 {
+font-family: "omnes-cond", sans-serif;
+font-weight: 600;
+font-style: normal;
+	color: saddlebrown
+}
+
+p, ul {
+	font-family: "nunito", sans-serif;
+font-weight: 400;
+font-style: normal;
+	
+
+}
+
+p {
+	margin-left:2.5%;
+	
+}
+
+.box1 {
+	position:relative;
+	margin-right:50%;
+	
+	
+}
+.box2 {
+position:relative;
+margin-left:50%;
+	bottom:235px;
+}
+.box3 {
+position: relative;
+	margin-right:50%;
+	bottom:235px;
+}
+.box4 {
+	position:relative;
+margin-left:50%;
+	bottom:490px;
+}
+.box5 {
+	position: relative;
+	margin-right:50%;
+	bottom:390px;
+	
+}
+.box6{
+	position:relative;
+margin-left:50%;
+	bottom:582px;
+	
+}
+
+.box7{
+		position: relative;
+	margin-right:50%;
+	bottom:540px;
+	
+}
+
+.box8{
+	position: relative;
+	bottom:530px;
+
+}
+
